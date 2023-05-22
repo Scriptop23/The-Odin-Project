@@ -1,0 +1,19 @@
+.pinkbg {
+    background-color: hsl(350, 75%, 72%);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+#bluetext {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0000ff;
+    font-size: 36px;
+}
+.fsize { 
+    font-size: 24px;
+}
+#greenbold {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #a8f2a8;
+    font-size: 24px;
+    font-weight: 700;
+}
+
